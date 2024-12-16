@@ -1,0 +1,3 @@
+Método: GET | Caminho: ./index.html | Status: 404 Not Found
+Método: GET | Caminho: ./favicon.ico | Status: 404 Not Found
+Método:  | Caminho:  | Status: 405 Method Not Allowed

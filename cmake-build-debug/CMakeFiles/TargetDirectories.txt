@@ -1,0 +1,3 @@
+C:/Users/Dyogo Mondego/CLionProjects/ServidorHTTP/cmake-build-debug/CMakeFiles/ServidorHTTP.dir
+C:/Users/Dyogo Mondego/CLionProjects/ServidorHTTP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dyogo Mondego/CLionProjects/ServidorHTTP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
