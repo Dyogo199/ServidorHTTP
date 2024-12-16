@@ -1,6 +1,3 @@
-### **README.md**
-
-```markdown
 # 🌐 Servidor HTTP em C++ 🚀
 
 Bem-vindo ao **Servidor HTTP** desenvolvido em **C++**, uma solução simples, eficiente e ideal para aprender sobre os fundamentos de redes, sockets e manipulação de arquivos. Este servidor suporta requisições HTTP básicas, como **GET** e **POST**, e serve arquivos locais diretamente para o navegador ou clientes como `curl`.
